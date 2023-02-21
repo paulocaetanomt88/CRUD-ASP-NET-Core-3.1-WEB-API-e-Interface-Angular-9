@@ -10,11 +10,16 @@
 
 Podemos acessar através do Postman os seguintes endpoints definidos:
 
-GET /api/Pagamentos/          - Recupera todos os registros
-GET /api/Pagamentos/id        - Recupera um registro com o ID fornecido
-POST /api/Pagamentos/         - Criar um novo registro
-PUT /api/Pagamentos/id        - Atualiza um registro com o ID fornecido
-DELETE /api/Pagamentos/id     - Exclui um registro com o ID fornecido
+GET /api/Pagamentos/          - Recupera todos os registros  
+
+GET /api/Pagamentos/id        - Recupera um registro com o ID fornecido  
+
+POST /api/Pagamentos/         - Criar um novo registro  
+
+PUT /api/Pagamentos/id        - Atualiza um registro com o ID fornecido  
+
+DELETE /api/Pagamentos/id     - Exclui um registro com o ID fornecido  
+
 
 
 # Interface em Angular 9
