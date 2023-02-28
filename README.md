@@ -1,6 +1,6 @@
 # CRUD-ASP-NET-Core-3.1-WEB-API-e-Interface-Angular-9
 ### Projeto de estudo para tratar dos detalhes de pagamentos de um cartão de Crédito usando as tecnologias ASP .NET Core Web API versão 3.1 e interface web com Angular 9
-
+<p>Este estudo teve como base o tutorial do Macoratti, disponível em: https://macoratti.net/20/08/ang9_crudapi1.htm</p>
 ### Dependências de desenvolvimento: 
 #### Instalar os seguintes pacotes Nuget para referênciar as referências do  Entity FrameworkCore:
 - Microsoft.EntityFrameworkCore.SqlServer (3.1.5)
